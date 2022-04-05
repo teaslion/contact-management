@@ -20,14 +20,14 @@ You can run the following commands to start the application and for the unit/int
 npm install
 npm start # run the application on local
 npm run test # run unit testing
-npm run test:e2e # integration testing using cypress
+npm run cypress:run # integration testing using cypress
 
 
 # yarn
 yarn
 yarn start # start the application on local
 yarn run test # unit testing
-yarn test:e2e # integration testing using cypress
+yarn cypress:run # integration testing using cypress
 
 ```
 
